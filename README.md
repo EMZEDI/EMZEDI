@@ -9,4 +9,5 @@
 - 📫 How to reach me: Dm me via Linkedin!
 - ⚡ Fun fact: Elephants can’t jump!
 
-<b> Feel free to checkout my repositories Especially https://github.com/EMZEDI/game_of_life and https://github.com/EMZEDI/DjangoCRUD </b>
+<b> Feel free to check my repositories Especially https://github.com/EMZEDI/game_of_life and https://github.com/EMZEDI/DjangoCRUD
+And let me know if you want to know more about my other coding experiences with java, C, Bash.
