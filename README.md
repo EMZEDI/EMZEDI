@@ -1,6 +1,6 @@
 ### Hi there 👋  this is Shahrad
 <p align="center">
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white <ra>
   <a href="https://www.linkedin.com/in/shahrad-m-88970b212">My Linkedin</a>
 </p>
 
