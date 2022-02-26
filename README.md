@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on some Algorithms and Data structures and coding them in java/Python
 - 🌱 I’m currently learning Machine learning algorithms and coding them in python using pandas, numpy, seaborn, etc!
 - 😁 I'm also working on and learning Backend development with different tools such as Django and python!
-- 👯 I’m looking to collaborate on Machine learning projects in vision/music and data science projects! 
+- 👯 I’m looking to collaborate on Machine learning projects in vision/music and data science!
 - 💬 Ask me about Computer Science student life!
-- 📫 How to reach me: Dm me via Linkedin!
+- 📫 How to reach me: Let's connect and chat on Linkedin!
 - ⚡ Fun fact: Elephants can’t jump!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EMZEDI&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMZEDI&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMZEDI&layout=compact">
 </p>
 
-<b> Feel free to check my repositories Especially <a href="https://github.com/EMZEDI/HACK22">MASTERS HACK PROJECT</a> and <a href="https://github.com/EMZEDI/DjangoCRUD">Django project</a> 
+<b> Feel free to check my repositories Especially <a href="https://github.com/EMZEDI/HACK22">MASTERS HACK PROJECT</a> and <a href="https://github.com/EMZEDI/MusicPlaylistGeneratorAIModel">Music Recommendation ML model</a> 
 And let me know if you want to know more about my other coding experiences with java, C, Bash.
   
 ---
