@@ -15,7 +15,7 @@
 - ⚡ Fun fact: Elephants can’t jump!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EMZEDI&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMZEDI)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMZEDI)](https://github.com/anuraghazra/github-readme-stats)
 
 <b> Feel free to check my repositories Especially <a href="https://github.com/EMZEDI/HACK22">MASTERS HACK PROJECT</a> and <a href="https://github.com/EMZEDI/DjangoCRUD">Django project</a> 
 And let me know if you want to know more about my other coding experiences with java, C, Bash.
