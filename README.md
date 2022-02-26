@@ -1,15 +1,16 @@
 ### Hi there 👋  this is Shahrad
 <p align="center">
+  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   <a href="https://www.linkedin.com/in/shahrad-m-88970b212">My Linkedin</a>
 </p>
 
 ---
 
-- 🪂 I’m currently studying at McGill University as an Honours Computer Science student! 
-- 🔭 I’m currently working on some Algorithms and Data structures and coding them in java/Python
-- 🌱 I’m currently learning Machine learning algorithms and coding them in python using pandas, numpy, seaborn, etc!
-- 😁 I'm also working on and learning Backend development with different tools such as Django and python!
-- 👯 I’m looking to collaborate on Machine learning projects in vision/music and data science!
+- 🪂 I’m currently studying Honours Computer Science @ McGill University.
+- 🔭 I’m currently working on Algorithms and Data structures & functional programming @ university times and coding them in java/Python.
+- 🌱 I'm also learning Machine Learning and its applications. Currently working on a music recommendation system project! I use Pandas, Numpy, ScikitLearn, seaborn, plotly, tensorflow in my learning process! 
+- 😁 I sometimes working on Backend development with different tools mostly Django.
+- 👯 I’m looking to collaborate on Machine learning projects in vision/music & data science!
 - 💬 Ask me about Computer Science student life!
 - 📫 How to reach me: Let's connect and chat on Linkedin!
 - ⚡ Fun fact: Elephants can’t jump!
