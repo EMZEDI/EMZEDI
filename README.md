@@ -24,5 +24,6 @@ and let me know if you want to know more about my other coding experiences with 
 
   
 ---
-<img src="https://user-images.githubusercontent.com/77243080/150607692-980ed74d-30eb-486d-b653-ae80f88478b1.jpg" align="center" height="300" width="1000" ></a>
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/77243080/150607692-980ed74d-30eb-486d-b653-ae80f88478b1.jpg"> </div>
+<p>
