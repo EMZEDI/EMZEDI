@@ -18,11 +18,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EMZEDI&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EMZEDI&theme=ocean_dark">
-</p>
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMZEDI&layout=compact">
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EMZEDI&theme=ocean_dark">
+</p>
+
 
 <b> Feel free to check my repositories Especially <a href="https://github.com/EMZEDI/HACK22">MASTERS HACK PROJECT</a> and <a href="https://github.com/EMZEDI/MusicPlaylistGeneratorAIModel">Music Recommendation ML model</a> 
 And let me know if you want to know more about my other coding experiences with java, C, Bash.
