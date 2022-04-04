@@ -10,7 +10,7 @@
 - 💬 Ask me about Computer Science student life!
 - 📫 How to reach me: Let's connect and chat about fascinating ideas on Linkedin!
 
-Feel free to check my repositories especially <a href="https://github.com/EMZEDI/HACK22">MASTERS HACK PROJECT</a> and <a href="https://github.com/EMZEDI/MusicPlaylistGeneratorAIModel">Music Recommendation ML model</a> 
+Feel free to check my repositories especially <a href="https://github.com/EMZEDI/HACK22">MASTERS HACK PROJECT</a> and <a href="https://github.com/EMZEDI/MusicPlaylistGeneratorAIModel">Mixerify</a> 
 and let me know if you want to know more about my other coding experiences with java, C, Assembly, and Bash.
 <p align="center">
     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=EMZEDI&theme=ocean_dark">
