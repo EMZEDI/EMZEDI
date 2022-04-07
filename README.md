@@ -4,7 +4,7 @@
 
 - 🪂 I’m currently studying Honours Computer Science @ McGill University.
 - 🔭 I’m currently working on Algorithms and Data structures & functional programming @ university times and coding them in java/Python & OCaml.
-- 🌱 I'm also learning Machine Learning and its applications. Currently working on a music recommendation system project! I use Pandas, Numpy, ScikitLearn, seaborn, plotly, tensorflow in my learning process with Python! 
+- 🌱 I'm also learning Machine Learning and its applications. Recently finished a music recommendation system project! I used Pandas, Numpy, ScikitLearn, seaborn, plotly, tensorflow in my learning process with Python! 
 - 😁 I sometimes work on Backend development with different tools mostly Django.
 - 👯 I’m looking to collaborate on Machine learning projects in vision/music & data science!
 - 💬 Ask me about Computer Science student life!
