@@ -1,5 +1,5 @@
 ## Hi there 👋  this is Shahrad, welcome to my github!
-#### Click the image to connect with me on linkedin: [<img align="center" alt="alt_text" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shahrad-m-88970b212)
+#### Click on the image to connect with me on linkedin: [<img align="center" alt="alt_text" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shahrad-m-88970b212)
 
 
 - 🪂 I’m currently studying Honours Computer Science @ McGill University.
