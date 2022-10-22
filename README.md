@@ -3,8 +3,8 @@
 
 
 - 🪂 I’m currently studying Honours Computer Science @ McGill University.
-- 🔭 I’m currently working on Algorithms and Data structures & functional programming @ university times and coding them in java/Python & OCaml.
-- 🌱 I'm also learning Machine Learning and its applications. Recently finished a music recommendation system project! I use Pandas, Numpy, ScikitLearn, seaborn, plotly, tensorflow in my learning process with Python! 
+- 🔭 I’m currently working on Artificial Intelligence and Machine learning @ university times and coding them in python/java.
+- 🌱 I recently won the Polytechnique's machine learning hackathon CodeML by designing a classification algorithm using extreme gradient boosting in a team of 4 to predict if patients will have stroke later in their life or not. Last year, I designed a music recommendation system using python and its machine learning/ data analysis libraries called Mixerify. <a href="https://github.com/EMZEDI/MusicPlaylistGeneratorAIModel">Mixerify</a>.
 - 😁 I sometimes work on Backend development with different tools mostly Django.
 - 👯 I’m looking to collaborate on Machine learning projects in vision/music & data science!
 - 💬 Ask me about Computer Science student life!
