@@ -2,7 +2,7 @@
 #### Click on the image to connect with me on linkedin: [<img align="center" alt="alt_text" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shahrad-m-88970b212)
 
 
-- 🪂 I’m currently studying Honours Computer Science @ McGill University and a previous tech analyst @ Morgan Stanley.
+- 🪂 I’m currently studying Honours Computer Science @ McGill University and a am former tech analyst @ Morgan Stanley.
 - 🔭 I’m currently working on two research projects on reduced Generative and Large language models.
 - 🌱 I recently won the Polytechnique's machine learning hackathon CodeML and McGill CodeJam hackathon in two months! Feel free to checkout Happify.ai, an AI webapp which analyzes your face in real time and tunes your spotify radio to stay productive and happy! <a href="https://github.com/EMZEDI/Happify">Happify.ai</a>
 - 😁 I sometimes work on Backend development with different tools mostly Spring and ExpressJS. Frontend? I love TailwindCSS and angular :)
