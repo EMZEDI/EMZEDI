@@ -2,11 +2,11 @@
 #### Click on the image to connect with me on linkedin: [<img align="center" alt="alt_text" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shahrad-m-88970b212)
 
 
-- 🪂 I’m currently studying Honours Computer Science @ McGill University and a am former tech analyst @ Morgan Stanley.
-- 🔭 I’m currently working on two research projects on reduced Generative and Large language models.
-- 🌱 I recently won the Polytechnique's machine learning hackathon CodeML and McGill CodeJam hackathon in two months! Feel free to checkout Happify.ai, an AI webapp which analyzes your face in real time and tunes your spotify radio to stay productive and happy! <a href="https://github.com/EMZEDI/Happify">Happify.ai</a>
+- 🪂 I’m currently studying Honours Computer Science @ McGill University and am a prev. tech analyst @ Morgan Stanley.
+- 🔭 I also joined the Complex Data Lab at Mila under the supervision of Dr. Reihaneh Rabbany and currently do active research on Link prediction on temporal graphs. In addition, I am part of McGill's Project X team working with Dr. Stefano Massaroli about building LLMs with efficient architectures like Hyena.
+- 🌱 Last year, I won the Polytechnique's machine learning hackathon CodeML and McGill CodeJam hackathon in two months! Feel free to checkout Happify.ai, an AI webapp which analyzes your face in real time and tunes your spotify radio to stay productive and happy! <a href="https://github.com/EMZEDI/Happify">Happify.ai</a>
 - 😁 I sometimes work on Backend development with different tools mostly Spring and ExpressJS. Frontend? I love TailwindCSS and angular :)
-- 👯 I’m looking to collaborate on Machine learning projects in vision/music & data science!
+- 👯 I’m looking to collaborate on Machine learning projects & data science!
 - 💬 Ask me about Computer Science student life!
 - 📫 How to reach me: Let's connect and chat about fascinating ideas on Linkedin!
 
